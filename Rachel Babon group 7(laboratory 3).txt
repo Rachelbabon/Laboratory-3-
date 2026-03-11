@@ -1,0 +1,27 @@
+print("Hello, I'm Rachel Babon BSIT 10")
+
+print("Welcome to Python Programming!")
+
+name = "Rachel"
+age = 23
+
+print(name)
+print(age)
+
+name = "heloise"
+name = "pauline"
+name = "rachel"
+name = "jessa"
+name="bryan"
+
+print("heloise")
+print("pauline")
+print("joshua")
+print("jessa")
+print("bryan")
+
+x, y, z = 5, 10, 15
+print(x, y, z)
+
+a = b = c = 100
+print(a, b, c)
